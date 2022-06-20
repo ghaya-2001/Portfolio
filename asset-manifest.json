@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ghaya-2001.github.io/static/css/main.541e71fd.css",
+    "main.js": "/ghaya-2001.github.io/static/js/main.9ed93d53.js",
+    "static/media/GhayaDerbali.pdf": "/ghaya-2001.github.io/static/media/GhayaDerbali.d3a5dfdad35319b28fa6.pdf",
+    "static/media/boy.png": "/ghaya-2001.github.io/static/media/boy.9cd821b0f4b5ac7ee251.png",
+    "static/media/glassesimoji.png": "/ghaya-2001.github.io/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/TL.png": "/ghaya-2001.github.io/static/media/TL.15f20526cabe7a463148.png",
+    "static/media/thumbup.png": "/ghaya-2001.github.io/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/ghaya-2001.github.io/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/ghaya-2001.github.io/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/ghaya-2001.github.io/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/ghaya-2001.github.io/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/ghaya-2001.github.io/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/ghaya-2001.github.io/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/ghaya-2001.github.io/index.html",
+    "main.541e71fd.css.map": "/ghaya-2001.github.io/static/css/main.541e71fd.css.map",
+    "main.9ed93d53.js.map": "/ghaya-2001.github.io/static/js/main.9ed93d53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541e71fd.css",
+    "static/js/main.9ed93d53.js"
+  ]
+}
