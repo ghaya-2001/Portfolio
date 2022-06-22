@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0b85b113.css",
+    "main.css": "/portfolio/static/css/main.d9d5260b.css",
     "main.js": "/portfolio/static/js/main.da68bac0.js",
     "static/media/GhayaDerbali.pdf": "/portfolio/static/media/GhayaDerbali.d3a5dfdad35319b28fa6.pdf",
     "static/media/boy.png": "/portfolio/static/media/boy.9cd821b0f4b5ac7ee251.png",
@@ -14,11 +14,11 @@
     "static/media/Vector2.png": "/portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/portfolio/index.html",
-    "main.0b85b113.css.map": "/portfolio/static/css/main.0b85b113.css.map",
+    "main.d9d5260b.css.map": "/portfolio/static/css/main.d9d5260b.css.map",
     "main.da68bac0.js.map": "/portfolio/static/js/main.da68bac0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b85b113.css",
+    "static/css/main.d9d5260b.css",
     "static/js/main.da68bac0.js"
   ]
 }
