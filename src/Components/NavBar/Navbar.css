@@ -48,7 +48,7 @@
     flex: 2;
     box-shadow: var(--boxShadow);
 }
-@media screen and (max-width=480px){
+@media screen and (max-width:480px){
     .n-List{
         display: none;
     }

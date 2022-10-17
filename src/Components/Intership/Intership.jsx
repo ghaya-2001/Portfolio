@@ -1,8 +1,7 @@
  import React from 'react';
 
 
-import shopify from '../../img/Shopify.png';
-import Upwork from '../../img/Upwork.png';
+import Nowadev from '../../img/Nowadev.jpg';
 import TL from '../../img/TL.png';
 import { themeContext } from '../../Context';
 import { useContext } from 'react';
@@ -21,7 +20,7 @@ const Intership =() =>{
             <div className='awesome'>
                 
                 <span style={{color: darkMode? 'white':''}}>All the Interships</span>
-                <span>Brand & Clients</span>
+                <span>Sagemcom</span>
                 <spane>
                 I had the pleasure of having my first internship  
                     <br/>
@@ -36,7 +35,25 @@ const Intership =() =>{
                     -Testing and implementing the module on the test <br/>and integration line
                     <br/>-Following and understanding the CMS card production process
               </spane>
+              <span className='awesome'>Nowadev</span>
+              <spane className='awesome1'>
+                I had the pleasure of having my second internship  
+                    <br/>
+                at Nowadev, which lasted two months.
+                    <br/>
+                In this intership i've dealt with:
+                <br/>
+                    <br/>
+                    -integration into the Nowadev team<br/>
+                    
+                    -Learning React.js Hooks <br/>
+                    -Learning NoSQL database creation,integrationand administration with MongoDB<br/>and integration line
+                    <br/>-Learning Backend development with Node.js+ Express.js<br/>
+                    -Creating a website using MERN stack(MongoDB,Express,React,Node)
+                    
+              </spane>
                 
+
                 <button className=" button s-button">Hire me</button>
                 
                 <div className="blur s-blur1" style={{background:'#ABF1FF94',}}></div>
@@ -53,12 +70,13 @@ const Intership =() =>{
             className="w-cic">
                 
             <div className="w-secCircle">
+                <img src={Nowadev} alt=''/>
             </div>
             
             <div className="w-secCircle">
                 <img src={TL} alt=''/>
             </div>
-           
+    
             <div className="w-secCircle">
                         </div>
 

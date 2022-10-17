@@ -58,8 +58,8 @@ Educational background: includes enrolling<br/> in the higher institute of compu
                 initial={{top:'-4%',left:'74%'}}
                 whileInView={{left:'68%'}}
                 transition={transition}
-              style={{top:'10%',left:'60%'}}>
-                  <FloatingDiv image={crown} txt1='Web' txt2='developer'/>
+              style={{top:'10%',left:'60%'}} className='floating-div'>
+                  <FloatingDiv image={crown} txt1='Frontend' txt2='developer'/>
               </motion.div>
 
 
@@ -68,7 +68,7 @@ Educational background: includes enrolling<br/> in the higher institute of compu
               whileInView={{left:'0rem'}}
               transition={transition}
               style={{top:'18rem',left:'0rem' ,}}>
-              <FloatingDiv image={thumbup} txt1='Best Designer' txt2='Award'/>
+              <FloatingDiv image={thumbup} txt1='Microsoft ISIMa' txt2='President'/>
               </motion.div>
               {/*blur divs*/}
               <div className='blur' style={{background:"rgb(238 210 255)"}}>

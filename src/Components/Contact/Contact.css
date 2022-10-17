@@ -1,8 +1,8 @@
 .contact-form{
    padding: 0 3rem 0 3rem;
    display: flex;
-   height: 80vh;
-   margin-top: 4rem; 
+   height: 60vh;
+   margin-top: 20rem; 
 }
 
 .c-right{
@@ -32,4 +32,21 @@
 .c-blur1{
     top: 1rem;
     left: 8rem;
+    
+}
+@media screen and (max-width:480px){
+    .contact-form{
+       
+        margin-top: 12;
+        flex-direction: column;
+        gap: 5rem;
+        height: 50rem;
+        transform: scale(0.8);
+        padding: 0rem;
+        
+    }
+    
+    
+    
+    
 }
